@@ -1,0 +1,44 @@
+[
+   {
+       "id":1,
+       "name":"Fitness",
+       "img":"https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fGZpdG5lc3N8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=60",
+       "dis":"Physical fitness is a state of health and well-being and, more specifically, the ability to perform aspects of sports, occupations and daily activities."
+
+   },
+   {
+       "id":2,
+       "name":"Dental",
+       "img":"https://images.unsplash.com/photo-1593022356769-11f762e25ed9?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+       "dis":"To truly maintain healthy gums and teeth and avoid other oral health problems, regular dental care visits are essential."
+
+   },
+   {
+       "id":3,
+       "name":"Care",
+       "img":"https://images.unsplash.com/photo-1584515933487-779824d29309?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+       "dis":" Medical care has several important functions other than restoring or maintaining health"
+
+   },
+   {
+       "id":4,
+       "name":"Events",
+       "img":"https://images.unsplash.com/photo-1536064479547-7ee40b74b807?ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8bWVkaWNhbCUyMGV2ZW50c3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+       "dis":"A medical event occurs when a patient intervention using byproduct material results in unintended radiation exposure."
+
+   },
+   {
+       "id":5,
+       "name":"Mental Health",
+       "img":"https://images.unsplash.com/photo-1493836512294-502baa1986e2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=890&q=80",
+       "dis":"Mental health includes our emotional, psychological, and social well-being. It affects how we think, feel, and act."
+
+   },
+   {
+       "id":6,
+       "name":"Doctor",
+       "img":"https://images.unsplash.com/photo-1537368910025-700350fe46c7?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+       "dis":"a person who is trained and licensed to treat sick and injured people I think you should see a doctor."
+
+   }
+]
